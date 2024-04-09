@@ -32,7 +32,7 @@ Note: I'm a pretty new gta player so there could be some simple things I am doin
 
 ## Extenuating Circumstances
 - This was my successfully server join on NoPixel 4.0 Public Blue.
-- Client running on remote desktop (Windows 10 rented server by ShadowPc: OVH Datacenter Montreal, Canada).
+- Client running on remote desktop (Windows 10 rented server by ShadowPc -> OVH Datacenter).
 - My peripherals (mouse, keyboard, headset, mic, PlayStation controller) were all working on the remote machine on discord/GTA V base/ self-hosted FiveM base server.
 - Upon connecting to NoPixel Blue, my FiveM client must restart to be compatible with server FiveM version (2802 ?).
 
@@ -43,15 +43,15 @@ Just anything I could find related to general errors/clothing/audio. I used log 
 - [    122984] [b2802_GTAProce]             MainThrd/ can't register compcache:/np_4.0_f2_clothing_encrypted/pedalternatevariations.meta: no streaming module (does this file even belong in stream?)
 
 - [    238109] [b2802_GTAProce] ResourcePlacementThr/ Physics validation failed for asset char_sel_shell_col.ybn.
-  [    238109] [b2802_GTAProce] ResourcePlacementThr/ This asset is **INVALID**, but we've fixed it for this load. Please fix the exporter used to export it.
+- [    238109] [b2802_GTAProce] ResourcePlacementThr/ This asset is **INVALID**, but we've fixed it for this load. Please fix the exporter used to export it.
 
 - [    315250] [b2802_GTAProce]             MainThrd/ Returning device Speakers (Virtual Audio Device (WDM) - ShadowVirtualSpeaker) for GUID {4AA7DB14-79E4-4744-BE39-93A5726B6812}
-  [    315266] [b2802_GTAProce] [Mumble] Audio Input/ Returning device Microphone (Steam Streaming Microphone) for GUID {0C0B938C-32F3-4AD4-A010-0EBB526B458E}
-  [    315297] [b2802_GTAProce] [Mumble] Audio Input/ MumbleAudioInput::InitializeAudioDevice: Initialized audio capture device.
+- [    315266] [b2802_GTAProce] [Mumble] Audio Input/ Returning device Microphone (Steam Streaming Microphone) for GUID {0C0B938C-32F3-4AD4-A010-0EBB526B458E}
+- [    315297] [b2802_GTAProce] [Mumble] Audio Input/ MumbleAudioInput::InitializeAudioDevice: Initialized audio capture device.
 
 - [    343188] [b2802_GTAProce] ResourcePlacementThr/ Mumble: ConnectedPhysics validation failed for asset kt1_12_0.ybn.
 
 - [    343203] [b2802_GTAProce]      UV loop: mumble/ ^3Warning: UDP packets can *not* be received. Switching to TCP tunnel mode.^7
-  [    343703] [b2802_GTAProce]      UV loop: mumble/ UDP packets can be received. Switching to UDP mode.
+- [    343703] [b2802_GTAProce]      UV loop: mumble/ UDP packets can be received. Switching to UDP mode.
 
 - [    697500] [b2802_GTAProce]        CrBrowserMain/ ResizeObserver loop limit exceeded (@clothing/nui/dist/index.html:0)
