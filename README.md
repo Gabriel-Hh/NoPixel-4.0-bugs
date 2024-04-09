@@ -1,4 +1,4 @@
-# NoPixel-4.0-bugs
+# NoPixel-4.0-bug
 
 BUG: No Clothing (+ No Voice Chat?): 2 logs + UI png
 Note: I'm a pretty new gta player so there could be some simple things I am doing wrong on the client side that cause or compound the issues I'm having.
