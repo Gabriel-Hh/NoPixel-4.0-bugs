@@ -1,6 +1,8 @@
 # NoPixel-4.0-bug
 
 BUG: No Clothing (+ No Voice Chat?): 2 logs + UI png
+
+
 Note: I'm a pretty new gta player so there could be some simple things I am doing wrong on the client side that cause or compound the issues I'm having.
 
 ## Behavior:
@@ -31,7 +33,7 @@ Note: I'm a pretty new gta player so there could be some simple things I am doin
 - Ultimately went back to apartments and quit client.
 
 ## Extenuating Circumstances
-- This was my successfully server join on NoPixel 4.0 Public Blue.
+- This was my first successfully server-join on NoPixel 4.0 Public Blue.
 - Client running on remote desktop (Windows 10 rented server by ShadowPc -> OVH Datacenter).
 - My peripherals (mouse, keyboard, headset, mic, PlayStation controller) were all working on the remote machine on discord/GTA V base/ self-hosted FiveM base server.
 - Upon connecting to NoPixel Blue, my FiveM client must restart to be compatible with server FiveM version (2802 ?).
